@@ -29,4 +29,4 @@ In this software we'll be detecting hands and using them would be controlling th
 - [OpenCV basics](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
 - [Rulebook](https://docs.google.com/document/d/1_Oiy9UD0yAcc8uqpdwzTUTl7RXy2d0O8LNQb2ZBDOCo/edit?usp=sharing)
 - [Submission Form](https://forms.gle/JU1gxQw1Q5zEGuXc6)
-- [Demo Walkthrough Video](Link to be added later)
+- [Demo Walkthrough Video](https://drive.google.com/file/d/12QPsZVcIcmrQGD9FMgcJV50gkZnTdKiW/view?usp=share_link)
