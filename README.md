@@ -3,7 +3,7 @@
 We have created a software for automating **'Hill Climb Racing'** game 
 using OpenCV module. 
 
-In this software we'll be detecting hands and using them would be controlling the game.
+In this software we'll be detecting hands and using them for controlling the game.
 
 ## Tech Stack
 
